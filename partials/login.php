@@ -1,0 +1,1 @@
+<div class="login-container" ng-include="selectedTemplate"></div>
